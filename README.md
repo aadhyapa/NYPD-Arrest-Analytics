@@ -1,5 +1,7 @@
 # NYPD-Arrest-Analytics
 
+Data Source: <a href = "https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data"> NYC Open Data</a>
+
 <h3>Data Model: </h3>
 
 <img width="790" alt="Screenshot 2024-07-19 at 6 10 08 PM" src="https://github.com/user-attachments/assets/36fb7ecc-6a75-401b-b181-63de65808c9e">
